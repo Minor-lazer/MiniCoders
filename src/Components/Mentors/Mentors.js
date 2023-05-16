@@ -23,13 +23,13 @@ return (
   </Col>
   <Col xs={6} md={3} className="text-center">
   <Image className="rounded-circle" src={require('./souvik.png')} alt="Image 1" style={{width:'150px',height:'150px'}} />
-    <h4>Souvik Deb</h4>
+    <h4>Souvik</h4>
     <p>Software developer</p>
   </Col>
   <Col xs={6} md={3} className="text-center">
-  <Image className="rounded-circle" src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="Image 1" style={{width:'150px',height:'150px'}} />
-    <h4>Susan Brown</h4>
-    <p>Position</p>
+  <Image className="rounded-circle" src={require('./damini.jpg')} alt="Image 1" style={{width:'150px',height:'150px'}} />
+    <h4>Damini</h4>
+    <p>Software Engineer</p>
   </Col>
 </Row>
 </Container>
