@@ -17,7 +17,7 @@ const ReviewSection = () => {
                   </Card.Text>
                 </Card.Body>
                 <Card.Footer className="custom-review">
-                  <small className="text-muted">Vishnu , 16 years</small>
+                  <small className="text-muted">Harkirat, 16 years</small>
                 </Card.Footer>
               </Card>
             </Col>
@@ -30,7 +30,7 @@ const ReviewSection = () => {
                   </Card.Text>
                 </Card.Body>
                 <Card.Footer className="custom-review">
-                  <small className="text-muted">Parents of Emmanuel</small>
+                  <small className="text-muted">Parents of Jaeden</small>
                 </Card.Footer>
               </Card>
             </Col>
