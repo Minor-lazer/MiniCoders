@@ -1,0 +1,30 @@
+.facebook-icon{
+    font-size: 30px;
+    color: white;
+}
+
+.instagram-icon{
+    font-size: 30px;
+    color: white;
+}
+
+.twitter-icon{
+    font-size: 30px;
+    color: white;
+}
+
+.linkedin-icon{
+    font-size: 30px;
+    color: white;
+}
+
+.icon-container{
+    margin-top: 30px;
+    margin-left: 90px;
+    color: white;
+}
+
+.custom-footer{
+    background-color:rgb(255, 172, 48);
+    color:beige
+}

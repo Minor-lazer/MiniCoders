@@ -1,0 +1,12 @@
+.custom-row{
+    justify-content: space-between;
+}
+
+.custom-card{
+    margin:10px;
+    border:10px solid rgb(240, 160, 41); 
+}
+
+.custom-courses{
+    background-color:whitesmoke
+}

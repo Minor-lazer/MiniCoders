@@ -1,0 +1,8 @@
+h2 {
+  font-family: Arial, sans-serif; /* set the font family */
+  font-size: 36px; /* set the font size */
+  font-weight: bold; /* set the font weight */
+  color: #0d0112; /* set the font color */
+  text-align: center; /* set the text alignment */
+  text-decoration: none; /* add an underline */
+}

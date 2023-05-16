@@ -1,0 +1,29 @@
+.custom-python-col{
+    height:70%;
+    width:30%;
+    border:2px solid blueviolet;
+    margin-top:2%;
+}
+
+.python-page-section{
+    background-color:whitesmoke;
+    padding-top:3%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 3%;
+}
+.custom-fa-ArrowUp{
+    font-size:25px;
+    color:orange
+}
+
+.custom-fa-Video{
+    font-size:25px;
+    color:orange
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 20px;
+    color:blueviolet;
+}
