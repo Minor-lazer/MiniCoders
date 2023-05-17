@@ -11,8 +11,8 @@ const FooterComp = () => {
         <Row>
           <Col md="4">
             <h4>Address</h4>
-            <p>1234 Main Street</p>
-            <p>Anytown, USA 12345</p>
+            <p>AECS Layout Marathali</p>
+            <p>Bangalore , Karnataka</p>
           </Col>
           <Col md="4">
             <h4>Connect with Us</h4>
