@@ -16,7 +16,7 @@
 
   .centered-text{
     text-align: center;
-    margin-top: 13%;
+    margin-top: 7%;
     margin-left:7%;
     /* color:aliceblue; */
     color:black;
@@ -27,7 +27,8 @@
   }
 
   .custom-nav{
-    justify-content: space-between;
+    justify-content:space-around;
+    margin-left: 10%;
   }
 
   .navbar .nav-item .dropdown-toggle {
@@ -48,4 +49,8 @@
     font-size:20px;
     font-weight: 300;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rounded-circle{
+  margin-left:6%;
 }
